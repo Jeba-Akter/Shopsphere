@@ -14,7 +14,7 @@ const WomenCloth = () => {
       <h1 className=" text-xl font-bold">
         total cloth: {womenclothing.length}{" "}
       </h1>
-      <div className=" grid grid-cols-4 gap-10 ">
+      <div className=" grid grid-cols-4 gap-10 py-10 ">
         {womenclothing.map((cloth, idx) => (
           <div
             key={idx}
@@ -26,12 +26,10 @@ const WomenCloth = () => {
                 alt="image" className="w-full h-72"
               />
             </figure>
-            <div className="card-body">
-              <h2 className="card-title">
+            <div className="card-bod ">
+              <h2 className="card-title ">
                 {cloth.title}
-
               </h2>
-              <p>If a dog chews shoes whose shoes does he choose?</p>
               <div className="card-actions capitalize">
                 <h1>price: {cloth.price}</h1> <br />
                 <h1 className="pt-2">discount: {cloth.discount}%</h1>

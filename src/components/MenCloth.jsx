@@ -14,7 +14,7 @@ const MenCloth = () => {
     <div className="w-11/12 mx-auto">
       <h1 className="text-2xl font-bold text-gray-800">Men Clothing</h1>
       <h1 className="text-4xl">total cloth: {menClothing.length}</h1>
-      <div className="my-8 grid grid-cols-4 gap-5 ">
+      <div className="my-8 grid grid-cols-4 gap-5  ">
        {
         menClothing.map((cloth, idx)=>
             <div key={idx} className="card bg-gray-200 w-72 shadow-xl">
@@ -28,10 +28,10 @@ const MenCloth = () => {
               <h2 className="card-title">
                 {cloth.title}
               </h2>
-              <p>If a dog chews shoes whose shoes does he choose?</p>
-              <div className="card-actions justify-end">,
+              <div className="card-actions">,
                 <h1 >Price: {cloth.price}</h1>
               </div>
+              <h1>discount: {cloth.discount}%</h1>
             </div>
           </div>
 
