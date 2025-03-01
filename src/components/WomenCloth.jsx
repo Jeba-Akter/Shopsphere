@@ -10,8 +10,8 @@ const WomenCloth = () => {
   console.log(" this is a women cloth:", womenclothing);
   return (
     <div className=" w-11/12 m-auto">
-      <h1 className=" text-2xl font-bold">women clothing</h1>
-      <h1 className=" text-xl font-bold">
+      <h1 className=" text-4xl font-bold">women clothing</h1>
+      <h1 className=" text-2xl ">
         total cloth: {womenclothing.length}{" "}
       </h1>
       <div className=" grid grid-cols-4 gap-10 py-10 ">

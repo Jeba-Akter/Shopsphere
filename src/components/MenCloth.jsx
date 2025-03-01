@@ -12,8 +12,8 @@ const MenCloth = () => {
     // console.log('this is a men cloth:',menClothing)
   return (
     <div className="w-11/12 mx-auto">
-      <h1 className="text-2xl font-bold text-gray-800">Men Clothing</h1>
-      <h1 className="text-4xl">total cloth: {menClothing.length}</h1>
+      <h1 className="text-4xl font-bold text-gray-800">Men Clothing</h1>
+      <h1 className="text-2xl">total cloth: {menClothing.length}</h1>
       <div className="my-8 grid grid-cols-4 gap-10  ">
        {
         menClothing.map((cloth, idx)=>
