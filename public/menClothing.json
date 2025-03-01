@@ -1,22 +1,12 @@
 [
-    {
-      "title": "Formal White Shirt",
-      "image": "https://demoxml.com/html/ecom/images/menthr1.png",
-      "price": 1200,
-      "discount": 10
-    },
+    
     {
       "title": "Casual Denim Jacket",
       "image": "https://assets.ajio.com/medias/sys_master/root/20250121/WgbZ/678fa290663dbe1c5fec7562/buda_jeans_co_black_men_regular_fit_trucker_jacket.jpg",
       "price": 2500,
       "discount": 15
     },
-    {
-      "title": "Slim Fit Jeans",
-      "image": "https://images.asos-media.com/products/jack-jones-glenn-slim-fit-jeans-in-vintage-blue-wash/207500222-1-midbluesq665/?$n_480w$&wid=476&fit=constrain",
-      "price": 1800,
-      "discount": 5
-    },
+    
     {
       "title": "Polo T-Shirt",
       "image": "https://sgp1.digitaloceanspaces.com/evidentbd/westacebd/RByoUy1S-GREY.jpg",
@@ -53,24 +43,14 @@
       "price": 8500,
       "discount": 5
     },
-    {
-      "title": "Cotton Vest",
-      "image": "https://tiimg.tistatic.com/fp/1/007/904/black-sleeveless-washable-comfortable-stylish-plain-mens-cotton-vests-478.jpg",
-      "price": 500,
-      "discount": 30
-    },
+   
     {
       "title": "Checkered Shirt",
       "image": "https://www.camelactive.com/media/3e/ff/f3/1737024641/mi-09103-5s03-48-m0-00.webp",
       "price": 1600,
       "discount": 12
-    },
-    {
-      "title": "Cargo Pants",
-      "image": "https://assets.ajio.com/medias/sys_master/root/20240329/q69R/6606ee6205ac7d77bbe4fd4f/-473Wx593H-467211972-green-MODEL4.jpg",
-      "price": 2300,
-      "discount": 10
     }
+   
    
   ]
   

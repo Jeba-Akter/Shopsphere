@@ -18,7 +18,7 @@ const WomenCloth = () => {
         {womenclothing.map((cloth, idx) => (
           <div
             key={idx}
-            className="card card-compact bg-base-100  shadow-xl "
+            className="card card-compact bg-base-100  shadow-2xl  "
           >
             <figure>
               <img
@@ -26,13 +26,13 @@ const WomenCloth = () => {
                 alt="image" className="w-full h-72"
               />
             </figure>
-            <div className="card-bod ">
+            <div className="card-bod pl-5 pb-5 ">
               <h2 className="card-title ">
                 {cloth.title}
               </h2>
               <div className="card-actions capitalize">
                 <h1>price: {cloth.price}</h1> <br />
-                <h1 className="pt-2">discount: {cloth.discount}%</h1>
+                <h1 className="pt-2 text-gray-500">discount: {cloth.discount}%</h1>
               </div>
             </div>
           </div>

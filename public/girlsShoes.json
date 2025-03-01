@@ -1,0 +1,56 @@
+[
+    {
+      "title": "Pink Casual Sneakers",
+      "image": "https://zaydns.com/cdn/shop/files/1_de4d7946-0551-4f9e-b69c-430b8b3cc1be.png?v=1723894651&width=1024",
+      "price": 1800,
+      "discount": 10
+    },
+    {
+      "title": "White Sports Shoes",
+      "image": "https://keeshoes.com/a/ale/galeries_image/image_1179269.s2000/white-sports-shoes-with-a-thick-sole-and-a-beige-teddy-bear-1-2000x2000.jpeg?_=1714101270.9971491",
+      "price": 2200,
+      "discount": 15
+    },
+    
+    {
+      "title": "Black Party Heels",
+      "image": "https://www.rightchoice.com.bd/media/catalog/product/cache/1/image/1000x/ecf8f784033ae390f93f40bb15010827/_/8/_88a4100.jpg",
+      "price": 2500,
+      "discount": 18
+    },
+    {
+      "title": "Glitter Ballet Flats",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVRnoQOt8n-LGnob4MLMcYR3qE4Pf5CqOHig&s",
+      "price": 1400,
+      "discount": 20
+    },
+   
+    {
+      "title": "LED Light-Up Shoes",
+      "image": "https://i5.walmartimages.com/seo/LUXUR-Light-Up-Shoes-LED-Roller-Skate-Shoes-Wheels-Boys-Girls-Sneakers-Kids-Sneakers-for-Children-Gift_64c32930-510a-47c0-949f-2528b49dbc32.15a80b5d05aea17c7c393d1bc4c5fa03.jpeg",
+      "price": 2700,
+      "discount": 15
+    },
+    {
+      "title": "Golden Party Sandals",
+      "image": "https://kxadmin.metroshoes.com/product/35-601-28-36/1200/35-601H28.jpg",
+      "price": 2800,
+      "discount": 10
+    },
+    
+    
+    {
+      "title": "Slip-On Loafers",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/7/0/701f7b1NK_SHOET00011547_4.jpg?rnd=20200526195200&tr=w-512",
+      "price": 1700,
+      "discount": 10
+    },
+    {
+      "title": "Lace-Up Boots",
+      "image": "https://www.shoeland.com/media/catalog/product/cache/1/thumbnail/225x340/9df78eab33525d08d6e5fb8d27136e95/k/a/kasey_grey_om.jpg",
+      "price": 3200,
+      "discount": 10
+    }
+    
+  ]
+  

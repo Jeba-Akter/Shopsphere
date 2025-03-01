@@ -1,4 +1,5 @@
 import Footer from "../components/footer";
+import GirlsShoes from "../components/girlsShoes";
 import MenCloth from "../components/MenCloth";
 import Navber1 from "../components/Navber1";
 import Navber2 from "../components/Navber2";
@@ -20,6 +21,7 @@ const Pages = () => {
             <MenCloth></MenCloth>
             <Offer2></Offer2>
             <WomenCloth></WomenCloth>
+             <GirlsShoes></GirlsShoes>
             <Footer></Footer>
             
             

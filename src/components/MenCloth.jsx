@@ -14,14 +14,14 @@ const MenCloth = () => {
     <div className="w-11/12 mx-auto">
       <h1 className="text-2xl font-bold text-gray-800">Men Clothing</h1>
       <h1 className="text-4xl">total cloth: {menClothing.length}</h1>
-      <div className="my-8 grid grid-cols-4 gap-5  ">
+      <div className="my-8 grid grid-cols-4 gap-10  ">
        {
         menClothing.map((cloth, idx)=>
-            <div key={idx} className="card bg-gray-200 w-72 shadow-xl">
+            <div key={idx} className="card  w-72 shadow-2xl">
             <figure>
               <img
                 src={cloth.image}
-                alt="image" className=" bg-slate-400 w-full h-80"
+                alt="image" className="  w-full h-80"
               />
             </figure>
             <div className="card-body">
@@ -30,8 +30,8 @@ const MenCloth = () => {
               </h2>
               <div className="card-actions">,
                 <h1 >Price: {cloth.price}</h1>
+                <h1 className=" pt-2 pr-2">discount: {cloth.discount}%</h1>
               </div>
-              <h1>discount: {cloth.discount}%</h1>
             </div>
           </div>
 
